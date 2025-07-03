@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/tranhn" target="_blank">Nhim 👋</a></h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/tranhnh" target="_blank">Nhim 👋</a></h1>
 <br>I'm a Creative UI/UX Designer turned Software Engineer with a passion for crafting exceptional digital experiences.<br>
 
 - 📫 How to reach me **huyentranhn43@gmail.com**
