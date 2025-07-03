@@ -13,3 +13,8 @@
 🛢️ Databases:       Firebase | MongoDB | PostgreSQL
 🔧 Tools:           VSCode | Git | Figma | Postman
 ```
+
+## 🐍 My Contributions Snake
+
+![Snake animation](https://github.com/tranhnh/tranhnh/blob/output/github-snake.svg)
+
