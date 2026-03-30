@@ -1,18 +1,11 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/tranhnh" target="_blank">Nhim 👋</a></h1>
-<br>I'm a Creative UI/UX Designer turned Software Engineer with a passion for crafting exceptional digital experiences.<br>
 
-- 📫 How to reach me: **huyentranhn43@gmail.com**
+## 🏗️ My Studio
 
-- ⚡ Fun fact: **I'm still trying to center a div since 2021 :)**
-
-## 🛠️ Tech Stack
-
-```bash
-💻 Languages:       JavaScript | TypeScript
-⚙️ Frameworks:      React | Node.js | Tailwind | Express
-🛢️ Databases:       Firebase | MongoDB | PostgreSQL
-🔧 Tools:           VSCode | Git | Figma | Postman
-```
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) 
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ## 🐍 My Contribution
 
@@ -22,3 +15,4 @@
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/tranhnh/tranhnh/output/github-snake.svg" />
 </picture>
 
+- 📫 How to reach me: **huyentranhn43@gmail.com**
