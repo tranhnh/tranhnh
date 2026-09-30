@@ -1,5 +1,3 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/tranhnh" target="_blank">Nhim 👋</a></h1>
-
 ## 🏗️ My Studio
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) 
